@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+header{
+    background-color: brown ;
+    color: aliceblue;
+    position: sticky;
+    height: 39px;
+    padding:42px
+    }
+section.options{
+    background-color: yellow;
+    height: 22px;
+    }
+li{
+    display: inline;
+    padding: 11px;
+    }
+a {
+    text-decoration:none ;
+    }
+a:hover{
+    color: brown;
+    }
+a.Login{5
+    text-align: right;
+    }
+section.login{
+    text-align: right;
+    }
+.container{
+    display: flex;
+    justify-content: center;
+    }
+.box{
+    margin: 23px;
+    padding: 42px;
+    }
+.videos{
+    display: flex;
+    justify-content: center;
+    }
+.vid{
+    margin: 20px;
+    }
+.photos{
+    display: flex;
+    justify-content: center;
+    }
+.pic{
+    margin: 20px;
+    }
